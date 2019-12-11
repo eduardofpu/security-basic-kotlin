@@ -1,14 +1,14 @@
-# jwt-token-kotlin
+# Securit-Basic-kotlin
 
 ```
 Objetivo desse projeto
 
-Contruir uma API kotlin que realiza authentication e authorization com token
+Contruir uma API kotlin que realiza authentication com segurança basic
 
 ```
-## Fronte
+
 ```
-Essa api pode ser consumida pelo postman ou  pelo front   react-jwt: https://github.com/eduardofpu/react-jwt
+
 
 ```
 ## Requisitos
